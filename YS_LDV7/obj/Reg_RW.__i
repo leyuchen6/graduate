@@ -1,0 +1,1 @@
+"code\Reg_RW.c" BROWSE INCDIR(.\user;.\code) DEBUG OBJECTEXTEND PRINT(.\Reg_RW.lst) OBJECT(.\obj\Reg_RW.obj)

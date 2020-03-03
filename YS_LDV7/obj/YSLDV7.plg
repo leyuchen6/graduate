@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\智能家居项目资料\a毕业设计\YS_LDV7\YSLDV7.uvproj
+Project File Date:  02/11/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+CODE\MAIN.C(232): error C141: syntax error near 'PA1'
+CODE\MAIN.C(233): error C141: syntax error near 'break'
+CODE\MAIN.C(238): error C141: syntax error near 'PA2'
+CODE\MAIN.C(240): error C141: syntax error near 'break'
+CODE\MAIN.C(245): error C141: syntax error near 'PA3'
+CODE\MAIN.C(247): error C141: syntax error near 'break'
+CODE\MAIN.C(252): error C141: syntax error near 'PA4'
+CODE\MAIN.C(254): error C141: syntax error near 'break'
+CODE\MAIN.C(259): error C141: syntax error near 'PA5'
+CODE\MAIN.C(261): error C141: syntax error near 'break'
+CODE\MAIN.C(266): error C141: syntax error near 'PA6'
+CODE\MAIN.C(268): error C141: syntax error near 'break'
+CODE\MAIN.C(273): error C141: syntax error near 'PA7'
+CODE\MAIN.C(275): error C141: syntax error near 'break'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+CODE\MAIN.C(245): error C141: syntax error near 'PA3'
+CODE\MAIN.C(247): error C141: syntax error near 'break'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=32.0 xdata=0 code=2533
+creating hex file from ".\obj\YSLDV7"...
+".\obj\YSLDV7" - 0 Error(s), 0 Warning(s).

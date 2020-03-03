@@ -1,0 +1,7 @@
+".\obj\STARTUP.obj",
+".\obj\LDChip.obj",
+".\obj\main.obj",
+".\obj\Reg_RW.obj",
+".\obj\usart.obj" 
+TO ".\obj\YSLDV7" 
+PRINT(".\YSLDV7.m51") RAMSIZE(256) 

@@ -1,0 +1,7 @@
+"STARTUP.obj",
+"LDChip.obj",
+"main.obj",
+"Reg_RW.obj",
+"usart.obj" 
+TO "YSLDV7" 
+RAMSIZE(256) 

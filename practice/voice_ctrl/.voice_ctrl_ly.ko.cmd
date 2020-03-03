@@ -1,0 +1,1 @@
+cmd_/work/practice/voice_ctrl/voice_ctrl_ly.ko := arm-linux-ld -EL  -r -o /work/practice/voice_ctrl/voice_ctrl_ly.ko /work/practice/voice_ctrl/voice_ctrl_ly.o /work/practice/voice_ctrl/voice_ctrl_ly.mod.o

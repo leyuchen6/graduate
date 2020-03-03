@@ -1,0 +1,1 @@
+"code\LDChip.c" BROWSE INCDIR(.\user;.\code) DEBUG OBJECTEXTEND PRINT(.\LDChip.lst) OBJECT(.\obj\LDChip.obj)
